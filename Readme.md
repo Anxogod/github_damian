@@ -25,3 +25,5 @@ Estoy en code web!!!
 Dale a . en un repositorio para editarlo
 
 Aparece un verified si está desde la web
+
+Los cambios desde la web al equipo lo hacemos mediante un Pull(confirmar).
