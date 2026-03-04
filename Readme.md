@@ -13,4 +13,9 @@ Tenemos que iniciar sesión para publicarlo en nuestra cuenta. Ahora vamos al te
 Abrimos una cmd de github y escribimos:
 
 git config --global user.name "Tu_nombre(lo q quieras)"
+
 git config --global user.email "anxovega3@gmail.com"
+
+El git fetch mejor no activar, si no, te traes los cambios de otras personas
+
+Cada vez que haya un cambio y quiera sincronizarlo con el github, le doy al + y así puedo sincronizarlo mejor.
