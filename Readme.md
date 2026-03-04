@@ -24,3 +24,4 @@ Estoy en code web!!!
 
 Dale a . en un repositorio para editarlo
 
+Aparece un verified si está desde la web
